@@ -79,5 +79,4 @@ Recommendations:
 Focus on high-growth states to expand charging infrastructure.
 Encourage adoption of buses and cars with targeted subsidies.
 Monitor state-level differences to design region-specific EV policies.
-
 Use ML forecasting for demand planning and policy evaluation.
